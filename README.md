@@ -141,9 +141,11 @@
   
   ### Group Manager Bots
   
+  - __[AirNope](https://t.me/airnope_bot)__ : _keeps Telegram groups clean from cryptocurrency ”airdrop” spam (and is [open-source](https://github.com/cuducos/airnope))_
   - __[Group Help](https://t.me/GroupHelpBot)__ : _This is the most complete Bot to help you manage your groups easily and safely!._
   - __[Rose](https://t.me/MissRose_bot)__ : _Powerful telegram bot to help you manage your groups._
-  
+  - __[InviteMemberBot ](https://t.me/InviteMemberBot )__ : _membership bot platform for paid Telegram channels and groups_
+
   ### Url Upload Bots
   
   - __[Video Download Bot](https://t.me/VideoDownloadBot)__ : _This Bot allows you to download videos from Facebook, Twitter, instagram, vk and other 700 sources._
@@ -173,7 +175,7 @@
   
   - __[Wikipedia Search](https://t.me/wiki)__ : _Search for wiki article in any chats or groups, no need to add it anywhere. Simply type @wiki in any chat, then type your query (without hitting 'send'). Bot will open a panel with Wikipedia article suggestions. Tap on an item to send it to your chat partner right away._
   - __[Livegram Bot](https://t.me/LivegramBot)__ : _Livegram Bot is a builder of feedback bots for Telegram. This can be used to broadcast messages, get feedback messages in groups, get bot statistics and more._
-  
+ - __[SUCH](https://t.me/such)__ : _feedback and support bot builder for channel admins, bot developers, business owners, and community managers._
   
   ## OpenSource
   
@@ -238,6 +240,7 @@
   #### OpenSource Anonymous Group Chat Bots
   - __[Private Parlor XT](https://github.com/Private-Parlor/Private-Parlor-XT)__ : _A featureful Telegram bot for making anonymous group chats_
   - __[secretlounge-ng](https://github.com/secretlounge/secretlounge-ng)__ : _A bot to make an anonymous group chat on Telegram_
+  - __[librelounge](https://github.com/usadev1984/librelounge)__ : _This project is a soft fork of secretlounge-ng that aims to track and merge most changes that are added to it while adding some essential features from the no-longer-updated [catlounge](https://github.com/catlounge/catlounge)_
 
   #### OpenSource Download Bots
   - __[Youtube Dl bot](https://github.com/aryanvikash/Youtube-Downloader-Bot)__
